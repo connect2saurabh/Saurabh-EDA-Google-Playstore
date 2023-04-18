@@ -1,4 +1,4 @@
-# Saurabh-EDA-Goggle-Playstore
+# Saurabh-EDA-Google-Playstore
 EDA Project of Google Playstore
 Google Play Store Apps Dataset Analysis
 
